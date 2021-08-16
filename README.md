@@ -9,3 +9,6 @@ As seguintes etapas são necessárias.
 
 ### Atualização
  Dado o estranhamento de poucos nomes na planilha resultado do Combine, farei uma analise com dicionarios e validar que todos os nomes foram passados corretamente. Além disso, consolidarei as outras 3 planilhas de cadastro geral antigas que tinhamos no sistema.
+ 
+ ### 16/08/2021
+  Devido à organização da planilha final por ordem alfabética, a a coluna Nomes foi ordenada mas as outras colunas não. Isso criou desordem na planilha, já que os dados foram embaralhados.
