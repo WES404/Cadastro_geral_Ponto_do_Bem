@@ -12,3 +12,6 @@ As seguintes etapas são necessárias.
  
  ### 16/08/2021
   Devido à organização da planilha final por ordem alfabética, a a coluna Nomes foi ordenada mas as outras colunas não. Isso criou desordem na planilha, já que os dados foram embaralhados.
+  
+ ### Atualização 30/08/2021
+  Erro encontrando, quando as duas planilhas foram combinadas por pd.DataFrame.combine() de alguma forma celulas que eram NaN nas duas planilhas receberam valores de outras celulas.
